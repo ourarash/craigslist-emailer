@@ -1,7 +1,4 @@
-<!-- <img src="https://imgur.com/YxWJoRM" width="350" align="right"> -->
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="YxWJoRM"><a href="//imgur.com/YxWJoRM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src="https://imgur.com/YxWJoRM" width="350" align="right">
 # Craigslist-Emailer
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ourarash/craigslist-emailer)
