@@ -16,7 +16,7 @@ Table of Contents
 
 * [Getting Started](#getting-started)
   * [Basic Installation](#basic-installation)
-  * [Basic Setup](#basic-setup)
+  * [Gmail Settings](#gmail-settings)
 * [Run the Script](#run-the-script)
  
 ## Getting started
@@ -55,7 +55,7 @@ var options = {
 
 ```
 
-### Basic Setup:
+### Gmail Settings:
 If you use Gmail, in order to send emails using this script, you will need to set Gmail to allow sending email from unsafe sources.
 Gmail will send you an email with instructions once you run this script for the first time. 
 
