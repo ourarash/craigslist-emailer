@@ -5,7 +5,7 @@
 
 ### Automation Script for sending email to Craigslist posts
 Implemented in nodejs using the Selenium module.
-This script searches for a keyword in a craiglist URL, and then automatically sends an email to each poster. The body of the email can be set in the options variable.
+This script searches for a keyword in a craigslist URL, and then automatically sends an email to each poster. The body of the email can be set in the options variable.
 
 
 **Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I’m also not responsible if your  get into any trouble due to extensive use of this tool.
