@@ -1,7 +1,7 @@
 
-# cgcontact
+# Craigslist-Emailer
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ourarash/cgcontact)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ourarash/craigslist-emailer)
 
 ### Automation Script for sending an email to each Craigslist post
 This script searches for a keyword in a craigslist URL, and then automatically sends an email to each poster. The body of the email can be set in the options variable.
@@ -25,8 +25,8 @@ Table of Contents
 ### Basic Installation:
 
 ```bash
-1. git clone https://github.com/ourarash/cgcontact.git
-2. cd cgcontact
+1. git clone https://github.com/ourarash/craigslist-emailer.git
+2. cd craigslist-emailer
 3. npm install
 ```
 

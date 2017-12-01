@@ -1,5 +1,5 @@
 {
-  "name": "cgcontact",
+  "name": "craigslist-emailer",
   "version": "1.0.0",
   "description": "Automatically list craigslist posts and emails them",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ourarash/cgcontact.git"
+    "url": "git+https://github.com/ourarash/craigslist-emailer.git"
   },
   "keywords": [
     "craigslist",
@@ -18,9 +18,9 @@
   "author": "Ari Saif",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ourarash/cgcontact/issues"
+    "url": "https://github.com/ourarash/craigslist-emailer/issues"
   },
-  "homepage": "https://github.com/ourarash/cgcontact#readme",
+  "homepage": "https://github.com/ourarash/craigslist-emailer#readme",
   "dependencies": {
     "moment": "^2.19.3",
     "nodemailer": "^4.4.0",
