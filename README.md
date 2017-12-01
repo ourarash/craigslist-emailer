@@ -1,4 +1,5 @@
 <img src="https://imgur.com/YxWJoRM" width="350" align="right">
+
 # Craigslist-Emailer
 
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ourarash/craigslist-emailer)
