@@ -57,7 +57,7 @@ var options = {
 
 ### Gmail Settings:
 If you use Gmail, in order to send emails using this script, you will need to set Gmail to allow sending email from less secure sources.
-Gmail will send you an email with instructions once you run this script for the first time. 
+Gmail will send you an email with instructions once you run this script for the first time.
 
 Alternatively, you can set it from here:
 https://myaccount.google.com/lesssecureapps
