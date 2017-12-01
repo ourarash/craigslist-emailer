@@ -27,8 +27,9 @@ Table of Contents
 1. git clone https://github.com/ourarash/cgcontact.git
 2. cd cgcontact
 3. npm install
-4. Set searchURL, searchTerm, your email, password, emailBody, and SMTP servers in index.js
 ```
+
+Set searchURL, searchTerm, your email, password, emailBody, and SMTP servers in index.js
 
 ```javascript
 // Fill out these options
