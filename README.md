@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/ODAWO" width="150" align="right">
+<img src="https://i.imgur.com/5drA1Zr.gif" width="150" align="right">
 
 # Craigslist-Emailer
 
