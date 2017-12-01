@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/5drA1Zr.gif" width="350" align="right">
+<!-- <img src="https://imgur.com/YxWJoRM" width="350" align="right"> -->
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="YxWJoRM"><a href="//imgur.com/YxWJoRM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 # Craigslist-Emailer
 
