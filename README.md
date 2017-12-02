@@ -1,4 +1,5 @@
-<img src="https://imgur.com/YxWJoRM" width="350" align="right">
+<img src="https://github.com/ourarash/craigslist-emailer/blob/master/capture.gif?raw=true" width="350" align="right">
+
 
 # Craigslist-Emailer
 
