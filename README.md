@@ -1,4 +1,4 @@
-<img src="https://github.com/ourarash/craigslist-emailer/blob/master/capture.gif?raw=true" width="350" align="right">
+
 
 
 # Craigslist-Emailer
@@ -13,6 +13,7 @@ Implemented in nodejs using the Selenium module.
 
 **Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I’m also not responsible if your  get into any trouble due to extensive use of this tool.
 
+<img src="https://github.com/ourarash/craigslist-emailer/blob/master/capture.gif?raw=true" width="350" align="right">
 
 Table of Contents
 =================
