@@ -21,6 +21,7 @@ Table of Contents
 * [Getting Started](#getting-started)
   * [Basic Installation](#basic-installation)
   * [Gmail Settings](#gmail-settings)
+  * [Chrome Driver] (#chrome-driver)
 * [Run the Script](#run-the-script)
  
 ## Getting started
@@ -65,6 +66,14 @@ Gmail will send you an email with instructions once you run this script for the 
 
 Alternatively, you can set it from here:
 https://myaccount.google.com/lesssecureapps
+
+### Chrome Driver
+The latest version of Chrome driver is included in this repo, but make sure that you have the latest version by downloading it from here:
+
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Also you will need to download the chromedriver if you are using a non Windows/Mac OS.
+
 
 ### Run the Script:
 Execute it:
